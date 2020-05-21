@@ -1,0 +1,8 @@
+name: binder-spleeter
+channels:
+  - defaults
+  - conda-forge
+  - https://conda.anaconda.org/t/6N-MsQ4WZ7jo/soumith
+dependencies:
+  - spleeter
+  - python=3.7
